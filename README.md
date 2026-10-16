@@ -17,7 +17,7 @@ Kevin has coached football since 2010.
 Both tools only read. No account, no sign-in, no email box.
 
 ## Install (about a minute)
-Server address: `https://hub.360tft.com/api/brain/mcp`
+Server address: `https://brain.360tft.com/api/brain/mcp`
 
 **Claude**
 1. Open Settings, then Connectors.
@@ -31,7 +31,7 @@ Server address: `https://hub.360tft.com/api/brain/mcp`
 
 **Claude Code**
 ```
-claude mcp add --transport http coaching-brain https://hub.360tft.com/api/brain/mcp
+claude mcp add --transport http coaching-brain https://brain.360tft.com/api/brain/mcp
 ```
 
 **Cursor**
@@ -44,4 +44,4 @@ Coaching Brain tool calls need no sign-in. We use your IP address to rate limit 
 ## Support
 https://footballgpt.co/support
 
-Landing page: https://hub.360tft.com/brain
+Landing page: https://brain.360tft.com/brain
